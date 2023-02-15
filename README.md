@@ -1,2 +1,2 @@
 # CASAD
-Computer Aided Support After Disasters
+Computer Aided Support At Disasters
