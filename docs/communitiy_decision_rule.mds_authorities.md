@@ -29,4 +29,4 @@ Gerektiğinde teknik kurul yeni üyelerini topluluk üyelerinden seçer.
 
 ## Alt gruplar
 Çeşitli alanlarda yetkilendirilmiş gruplardır. Grup lideri ile birlikte kendilerine tanımlı görev alanlarında karar alma yetkilerine sahiptirler.
-Proje modüllere bölünerek latguruplara atanan parçalar bu şekilde tanımlı ister dokümanları çerçevesinde bağımsız ilerleyebilir.
+Proje modüllere bölünerek altguruplara atanan parçalar bu şekilde tanımlı ister dokümanları çerçevesinde bağımsız ilerleyebilir.
