@@ -1,11 +1,40 @@
 
 # Topantı Notları
-Bu belgede yapılan toplantıların notları bulunacaktır. Her toplantı için tutulacak notlarda minimum beklenen bilgiler aşağıdaki gibidir:  
-* Tarih (YYYY-MM-DD formatında The ISO 8601 format)  
-* Katılımcılar  
-* Gündem  
-* Kararlar  
-* Bir sonraki aşamada yapılacaklar  
+Bu belgede yapılan toplantıların notları bulunacaktır. Her toplantı için tutulacak notlarda minimum beklenen bilgiler aşağıdaki gibidir:
+
+* Tarih (YYYY-MM-DD formatında The ISO 8601 format)
+* Katılımcılar
+* Gündem
+* Kararlar
+* Bir sonraki aşamada yapılacaklar
+
+## 2023-03-03
+
+### Katılımcılar
+
+* İsmail Can Dursun
+* Murat Işık
+* Volkan Özyılmaz
+
+### Gündem
+
+* Açık kaynak kodlu depreme uygun yazılım olup olmadığın konuşuldu.
+* sahibinden.com sitesinde olduğu gibi harita üzerinden gösterim yapılabileceği gibi listeleme ile de gösterim yapılabilir.
+* Routing: kapalı yolların da dahil edildiği bir routing sistemi gerekli.  
+* Mapping için open street map kullanılabilir. Fakat tüm Türkiye tam olarak haritalanmamış.
+  - Hangi harita sistemi tam olarak işimizi görür?
+  - Google uydu imajları ile Microsoft uygu imajları giydirme için kullanılabilir.
+* Gidilen yerlerin işaretlenmesi ve aynı yere başka ekiplerin gitmemesi sağlanabilir. Sistem otomatik olarak görev otomasyonu çıkarır ve ekipleri afet bölgelerinde müdahale edilecek yerlere atama için öneriler oluşturabilir. Operasyon yöneticisi bu önerileri kabul edip uygular veya uygulamaz.
+* ARCGIS ticari bir ürün ve mapping için kullanılabilir. Dron gibi cihazlarla çekilen imajların gerekli eğip bükme işleri ile otomatikman hariyata giydirilmesi işi dahil bir çok modülü var.
+  - https://enterprise.arcgis.com/en/cloud/latest/intro/enterprise-in-cloud.htm
+  - https://learn.arcgis.com/en/projects/estimate-storage-capacity-with-drone-imagery/
+* Sistemin offline çalışması gerekli. Ekiplerin her zaman internet erişimi olmuyor.
+
+### Sonraki Aşamada Yapılacaklar
+
+* Hangi harita sistemi tam olarak işimizi görür görevi Trello panosu üzerinde oluşturulacak (vozyilmaz)
+* ARCGIS: AWS destekliyor. Serverless mi degil mi? Ne kadar ucreti var? 
+
 
 ## 2023-02-22
 
